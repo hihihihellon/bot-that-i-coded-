@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "stopbeingbored.aternos.me:17279",
+    "port": 19532,
     "version": "1.21.1"
   },
   "position": {
