@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stopbeingbored-NnbI.exaroton.me:44920",
+    "ip": "stopbeingbored-NnbI.exaroton.me",
     "port": 44920,
     "version": "1.21.1"
   },
